@@ -3,5 +3,5 @@ This is to make sure that the workflow succeeds until we have unit tests up and 
 """
 
 
-def test():
+def test_main():
     assert True
